@@ -24,7 +24,7 @@ and another one accomodates the synchrotron variations due to the variable spect
 After the diffuse components are recovered, we can model their contribution at each of 2048 frequencies, and subtract it from the initial dataset.
 This would give us the difference maps containing cosmological HI, instrumental noise and the residuals from the diffuse components.
 
-In this particular example the instrumental noise is assumed to be very small (long integration limit), the beam is also small (SKA-MID case) and the statistical
+In this particular example the instrumental noise is assumed to be very small (long integration limit), the beam is also small (SKA-LOW case) and the statistical
 properties of the cosmological HI are assumed to be known.
 
 Since the data files are very big, they are not uploaded to the GitHub.
